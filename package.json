@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "homepage": "https://deckmasterbeam.github.io/day-planner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deckmasterbeam/day-planner.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
